@@ -7,22 +7,23 @@
 body {
   background-color: #d9dcd6;
 }
-/* combined all header */
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  background-color: #2a607c;
-  color: #ffffff;
+  background-color: black;
+  color: #0072bb;
 }
 
 header h1 {
   display: inline-block;
   font-size: 48px;
+  color: #0072bb;
 }
 
 header h1 .seo {
-  color: #d9dcd6;
+  color: #7cf800;
 }
 
 header nav {
@@ -31,6 +32,7 @@ header nav {
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
+  
 }
 
 header nav ul {
@@ -43,7 +45,7 @@ header nav ul li {
 }
 
 a {
-  color: #ffffff;
+  color: #0072bb;
   text-decoration: none;
 }
 
@@ -86,7 +88,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-/* created benefits-common class */
+
 .benefit-common {
   margin-bottom: 32px;
   color: #ffffff;
@@ -107,18 +109,20 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: font-family: 'PT Serif', serif;;
   background-color: #0072bb;
   color: #ffffff;
 }
 
 .main-style img {
   max-height: 200px;
+  width: 200px;
+  border-radius: 100px;
 }
 
 .main-style h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
+  margin-bottom: 50px;
+  font-size: 40px;
 }
 
 .footer {
