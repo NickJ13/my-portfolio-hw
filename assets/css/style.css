@@ -54,10 +54,10 @@ p {
 }
 
 .hero {
-  height: 800px;
+  height: 1000px;
   width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
+  margin-bottom: 15px;
+  background-image: url("../images/mountains.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -73,7 +73,7 @@ p {
 }
 
 .content {
-  width: 75%;
+  width: 100%;
   display: inline-block;
   margin-left: 20px;
 }
@@ -86,7 +86,7 @@ p {
   font-family: font-family: 'PT Serif', serif;
   background-color: #0072bb;
   color: black;
-  margin: center;
+
 }
 
 .main-style img {
